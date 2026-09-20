@@ -29,6 +29,6 @@ Do not open public issues for security problems. Follow [SECURITY.md](SECURITY.m
 
 ## Maintainer
 
-Alok Ranjan Singh
+AR Singh
 
-- LinkedIn: https://www.linkedin.com/in/alokranjan-in/
+- LinkedIn: https://www.linkedin.com/in/arsinghin/

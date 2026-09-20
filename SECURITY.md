@@ -10,8 +10,8 @@ Please report security issues privately to the maintainer instead of opening a p
 
 Maintainer:
 
-- Alok Ranjan Singh
-- LinkedIn: https://www.linkedin.com/in/alokranjan-in/
+- AR Singh
+- LinkedIn: https://www.linkedin.com/in/arsinghin/
 
 Include:
 

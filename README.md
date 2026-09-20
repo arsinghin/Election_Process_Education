@@ -193,6 +193,6 @@ Commercial use, redistribution, sublicensing, and publication of modified versio
 
 ## Author
 
-**Alok Ranjan Singh**
+**AR Singh**
 
-- LinkedIn: [linkedin.com/in/alokranjan-in](https://www.linkedin.com/in/alokranjan-in/)
+- LinkedIn: [linkedin.com/in/arsinghin](https://www.linkedin.com/in/arsinghin)
